@@ -8,7 +8,7 @@ Passionate about technology and leading high-performing teams to deliver excepti
 
 🚀 **Technical Leadership:** Over 15 of hands-on experience in software systems development, installation, testing, and maintenance across diverse domains.
 
-⚙️ **Languages & Tools:** Proficient in:
+⚙️ **Languages & Tools:**
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet?logo=c-sharp&logoColor=white)
@@ -21,8 +21,7 @@ Passionate about technology and leading high-performing teams to deliver excepti
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-red?logo=microsoft-sql-server&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-purple?logo=terraform&logoColor=white)
-
-🌐 **Cloud & DevOps:** Proficient in deploying applications using Docker, Kubernetes, Terraform, and other cloud-native tools. Extensive experience in architecting scalable and resilient cloud-based solutions.
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
 
 🏢 **Leadership & Methodologies:** Skilled in leading teams, fostering growth, and delivering excellence through Agile methodologies.
 
