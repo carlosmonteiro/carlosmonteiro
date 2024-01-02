@@ -12,12 +12,12 @@ Passionate about technology and leading high-performing teams to deliver excepti
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![ASP.Net](https://img.shields.io/badge/-ASP.Net-blue?logo=.net&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-yellow?logo=cloudflare&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-red?logo=microsoft-sql-server&logoColor=white)
