@@ -22,8 +22,18 @@ Passionate about technology and leading high-performing teams to deliver excepti
 ![T-SQL](https://img.shields.io/badge/-T--SQL-red?logo=microsoft-sql-server&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-purple?logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-darkgreen?logo=ansible&logoColor=white)
+
 
 🏢 **Leadership & Methodologies:** Skilled in leading teams, fostering growth, and delivering excellence through Agile methodologies.
+
+![Scrum](https://img.shields.io/badge/-Scrum-lightblue)
+![Kanban](https://img.shields.io/badge/-Kanban-green)
+![XP](https://img.shields.io/badge/-XP-orange)
+![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-blue?logo=trello&logoColor=white)
 
 🎓 **Certifications:**
 
