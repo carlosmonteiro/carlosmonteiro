@@ -41,19 +41,19 @@ Passionate about technology and leading high-performing teams to deliver excepti
 
 🏢 **Leadership & Methodologies:** Skilled in leading teams, fostering growth, and delivering excellence through Agile methodologies.
 
-![Scrum](https://img.shields.io/badge/-Scrum-lightblue)
-![Kanban](https://img.shields.io/badge/-Kanban-green)
-![XP](https://img.shields.io/badge/-XP-orange)
+![Scrum](https://img.shields.io/badge/Agile-Scrum-blue)
+![Kanban](https://img.shields.io/badge/Agile-Kanban-green)
+![XP](https://img.shields.io/badge/Agile-XP-orange)
 ![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-blue?logo=trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-yellow?logo=confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-blue?logo=confluence&logoColor=white)
 
 
 🎓 **Certifications:**
 
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-yellow?logo=amazon-aws&logoColor=white)
-![Scrum Master Professional](https://img.shields.io/badge/Scrum%20Master%20Professional-blue?logo=certProf)
-![MCP on C# Web Applications](https://img.shields.io/badge/Microsoft%20Certified%20Professional%20on%20C%23%20Web%20Application-orange?logo=microsoft&logoColor=white)
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-orange?logo=amazon-aws&logoColor=white)
+![Scrum Master Professional](https://img.shields.io/badge/CertiProf-Scrum%20Master%20Professional-green?logo=CertiProf)
+![MCP on C# Web Applications](https://img.shields.io/badge/MCP%20C%23%20Web%20Application-blue?logo=microsoft&logoColor=white)
 
 ## 🌟 Achievements
 
