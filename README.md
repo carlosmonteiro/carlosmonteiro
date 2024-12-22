@@ -24,7 +24,7 @@ Passionate about technology and leading high-performing teams to deliver excepti
 ![Terraform](https://img.shields.io/badge/-Terraform-purple?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-darkgreen?logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-orange?logo=gitlab&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-green?logo=subversion&logoColor=white)
