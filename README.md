@@ -51,7 +51,8 @@ Passionate about technology and leading high-performing teams to deliver excepti
 
 🎓 **Certifications:**
 
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-orange?logo=amazon-aws&logoColor=white)
+![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-orange?logo=amazon-aws&logoColor=white)
+![AWS Certified Data Engineer Associate](https://img.shields.io/badge/AWS%20Data%20Engineer%20Associate-blue?logo=amazon-aws&logoColor=white)
 ![Scrum Master Professional](https://img.shields.io/badge/CertiProf-Scrum%20Master%20Professional-green?logo=CertiProf)
 ![MCP on C# Web Applications](https://img.shields.io/badge/MCP%20C%23%20Web%20Application-blue?logo=microsoft&logoColor=white)
 
